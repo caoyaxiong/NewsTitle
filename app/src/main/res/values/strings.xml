@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsTitle</string>
+    <string name="editText">搜索或输入网址</string>
+</resources>
